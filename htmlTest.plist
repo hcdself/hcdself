@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://192.168.22.102:80/download?file=html_test/htmlTest.ipa</string>
+                   <string>https://github.com/hcdself/hcdself/raw/main/htmlTest.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://192.168.22.102:80/download?file=html_test/large.png</string>
+                   <string>https://github.com/hcdself/hcdself/raw/main/large.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://192.168.22.102:80/download?file=html_test/small.png</string>
+                   <string>https://github.com/hcdself/hcdself/raw/main/small.png</string>
                </dict>
            </array>
            <key>metadata</key>
